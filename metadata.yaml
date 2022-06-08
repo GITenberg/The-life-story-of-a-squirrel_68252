@@ -1,0 +1,28 @@
+_repo: The-life-story-of-a-squirrel_68252
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bridges, T. C. (Thomas Charles)
+    alias: Bridges, Thomas Charles
+    birthdate: 1868
+    gutenberg_agent_id: '4008'
+    url: http://www.gutenberg.org/2009/agents/4008
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68252'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/osu.32435063457410
+pgterms:marc905: 20201207111224bridges
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :Adam & Charles Black,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life story of a squirrel
+url: http://www.gutenberg.org/ebooks/68252
