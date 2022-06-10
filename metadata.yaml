@@ -1,5 +1,8 @@
 _repo: The-life-story-of-a-squirrel_68252
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68252-h/images/cover.jpg
 creator:
   author:
     agent_name: Bridges, T. C. (Thomas Charles)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4008'
     url: http://www.gutenberg.org/2009/agents/4008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68252#The-life-story-of-a-squirrel
 gutenberg_issued: '2022-06-06'
 identifiers:
   gutenberg: '68252'
